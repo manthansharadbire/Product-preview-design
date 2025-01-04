@@ -17,3 +17,21 @@ body{
     cursor: pointer;
     border-radius: 20px;
 }
+
+.image-container{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.img{
+    margin: 20px 20px;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    border: 2px solid  rgb(206, 176, 176) ;
+    border-radius: 10px;
+    cursor: pointer;
+}
