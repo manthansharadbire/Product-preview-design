@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(31, 27, 27);
+}
+
+#heading{
+    color: white;
+    text-align: center;
+}
+
+#primary-image{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 30px auto;
+    border: 2px solid rgb(206, 176, 176);
+    cursor: pointer;
+    border-radius: 20px;
+}
