@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(31, 27, 27);
 }
@@ -22,8 +23,6 @@ body{
     margin: 20px auto;
     display: flex;
     justify-content: center;
-
-
 }
 
 .img{
@@ -31,7 +30,11 @@ body{
     height: 100px;
     width: 100px;
     align-items: center;
-    border: 2px solid  rgb(206, 176, 176) ;
+    border: 2px solid  rgb(11, 8, 8) ;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.img:hover{
+    border: 2px solid rgb(123, 115, 115)
 }
